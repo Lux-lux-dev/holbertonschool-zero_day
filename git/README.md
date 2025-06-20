@@ -1,1 +1,1 @@
-x
+exercice bash
